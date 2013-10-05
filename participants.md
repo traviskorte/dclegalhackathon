@@ -1,5 +1,5 @@
 Here are the particpants: 
 
-@rebeccawilliams
-@benbalter
-@alandelevie
+@rebeccawilliams  
+@benbalter  
+@alandelevie  
