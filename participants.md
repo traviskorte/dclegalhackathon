@@ -1,5 +1,7 @@
 Here are the particpants: 
 
-@rebeccawilliams  
-@benbalter  
-@alandelevie  
+[rebeccawilliams](http://github.com/rebeccawilliams)
+
+[benbalter](http://github.com/benbalter)
+
+[adelevie](http://github.com/adelevie)
