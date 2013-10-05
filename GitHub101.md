@@ -1,7 +1,8 @@
 1. Make sure you have a GitHub account. If you don't, you can sign up for one [here](http://github.com).
 2. Beginners can just click "edit", make changes to the text, and click "commit changes" at the bottom of the page.
 3. Non-beginners can just send a [Pull Request](https://help.github.com/articles/using-pull-requests).
-4. Finally, `agenda.md` is written using [Markdown](http://daringfireball.net/projects/markdown/syntax).
+4. Finally, `participants.md` is written using [Markdown](http://daringfireball.net/projects/markdown/syntax).
+5. Add your github user name to `participants.md`
 
 If you're interested in who came up with a certain idea (or who edited your own idea), click ["blame"](https://github.com/dclegalhackers/ideas/blame/master/ideas.md) on the `ideas.md` page. It's great introduction to appreciating the features of Git and GitHub.
 
